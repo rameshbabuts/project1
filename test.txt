@@ -1,2 +1,0 @@
-This is a sample file to check webhooks
-New project was added to this file
